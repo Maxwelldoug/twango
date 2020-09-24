@@ -1,0 +1,15 @@
+:Base dwango95.hlp
+1 Welcome to Dwango=main_index
+1 Getting Started=HELP_GETTING_STARTED
+1 The Dwango Lobby=HELP_DWANGO_LOBBY
+1 Playing Games=HELP_PLAYING_GAMES
+1 Menu Commands
+2 File menu=menu_file
+2 Games menu=menu_games
+2 Billing menu=menu_billing
+2 View menu=menu_view
+2 Options menu=menu_options
+2 Help menu=menu_help
+1 Technical Support
+2 Getting Technical Support=HELP_TECH_SUPPORT
+2 Troubleshooting=HELP_TROUBLE_SHOOTING
