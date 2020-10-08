@@ -1,1 +1,0 @@
-for %%v in (*.exe) do unlzexe "%%v"
